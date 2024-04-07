@@ -5,6 +5,8 @@
 #include <unistd.h>
 #include <time.h> 
 #include <limits.h> 
+#include "stockutils.c"
+#include "stockutils.h"
 
 #define EXT_SUCCESS 0
 #define EXT_ERR_TOO_MANY_ARGUMENTS 1
